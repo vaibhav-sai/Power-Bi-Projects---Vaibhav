@@ -1,2 +1,3 @@
 # Power-Bi-Projects---Vaibhav
-This are sample power bi projects which i have done.
+
+Below are the projects done by me.
