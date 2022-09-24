@@ -1,0 +1,13 @@
+https://community.powerbi.com/t5/Data-Stories-Gallery/Netflix-Movie-and-TV-Analytics/m-p/1807912
+https://www.kaggle.com/shivamb/netflix-shows
+https://help.netflix.com/en/node/2064/us
+https://en.wikipedia.org/wiki/Motion_Picture_Association_film_rating_system
+
+
+Netflix :- https://www.kaggle.com/shivamb/netflix-shows
+
+Prime :- https://www.kaggle.com/shivamb/amazon-prime-movies-and-tv-shows
+
+Disney + :- https://www.kaggle.com/shivamb/disney-movies-and-tv-shows
+
+HuLu :- https://www.kaggle.com/shivamb/hulu-movies-and-tv-shows
