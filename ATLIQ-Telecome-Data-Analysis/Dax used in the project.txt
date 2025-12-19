@@ -1,0 +1,12 @@
+sum
+average
+averagex
+values
+selectedvalue
+if
+CALCULATE([Total_plan_revenes],
+dim_plan[plan]= SELECTEDVALUE(dim_plan[plan]))
+
+if
+blank()
+sumx
